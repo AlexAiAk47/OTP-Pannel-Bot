@@ -38,8 +38,8 @@ from telegram.error import BadRequest, TelegramError
 # ============================================================
 # CONFIG
 # ============================================================
-BOT_TOKEN = os.environ.get("BOT_TOKEN", "8924019584:AAE8jyBLj1Fu_6JHXG8PSmyzPIPZB5sLdCw")
-MONGO_URI = os.environ.get("MONGO_URI", "")
+BOT_TOKEN = os.environ.get("BOT_TOKEN", "9156964242:AAE5Gv-1uL-erIGhpOPF6J_LyZyfQJRx5zI")
+MONGO_URI = os.environ.get("MONGO_URI", "mongodb+srv://alexaditya:alexaditya950@cluster0.7j1hfjk.mongodb.net/?appName=Cluster0")
 FB_HASH_SALT = os.environ.get("FB_HASH_SALT", "alex_fb_secure_salt_2025_v23")
 
 ADMIN_IDS = set()
